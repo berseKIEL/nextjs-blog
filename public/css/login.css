@@ -1,0 +1,11 @@
+body {
+    background-image: url(../img/raasefondo.jpg);
+    background-repeat: repeat-x;
+    background-color: #fff;
+}
+.bg {
+    background-image: url(../img/raase-isologotipo-sm.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
